@@ -1,0 +1,7 @@
+C:\Users\vicen\source\repos\ConversionoOut\bin\Debug\ConversionoOut.exe.config
+C:\Users\vicen\source\repos\ConversionoOut\bin\Debug\ConversionoOut.exe
+C:\Users\vicen\source\repos\ConversionoOut\bin\Debug\ConversionoOut.pdb
+C:\Users\vicen\source\repos\ConversionoOut\obj\Debug\ConversionoOut.csprojAssemblyReference.cache
+C:\Users\vicen\source\repos\ConversionoOut\obj\Debug\ConversionoOut.csproj.CoreCompileInputs.cache
+C:\Users\vicen\source\repos\ConversionoOut\obj\Debug\ConversionoOut.exe
+C:\Users\vicen\source\repos\ConversionoOut\obj\Debug\ConversionoOut.pdb
