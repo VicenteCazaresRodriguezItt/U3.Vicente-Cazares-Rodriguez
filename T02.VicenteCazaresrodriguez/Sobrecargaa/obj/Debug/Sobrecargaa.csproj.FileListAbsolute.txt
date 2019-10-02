@@ -1,0 +1,7 @@
+C:\Users\vicen\source\repos\Sobrecargaa\bin\Debug\Sobrecargaa.exe.config
+C:\Users\vicen\source\repos\Sobrecargaa\bin\Debug\Sobrecargaa.exe
+C:\Users\vicen\source\repos\Sobrecargaa\bin\Debug\Sobrecargaa.pdb
+C:\Users\vicen\source\repos\Sobrecargaa\obj\Debug\Sobrecargaa.csprojAssemblyReference.cache
+C:\Users\vicen\source\repos\Sobrecargaa\obj\Debug\Sobrecargaa.csproj.CoreCompileInputs.cache
+C:\Users\vicen\source\repos\Sobrecargaa\obj\Debug\Sobrecargaa.exe
+C:\Users\vicen\source\repos\Sobrecargaa\obj\Debug\Sobrecargaa.pdb
