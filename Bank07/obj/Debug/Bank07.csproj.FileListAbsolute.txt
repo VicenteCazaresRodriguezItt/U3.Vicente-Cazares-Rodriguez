@@ -1,0 +1,6 @@
+C:\Users\vicen\source\repos\Bank07\obj\Debug\Bank07.csprojAssemblyReference.cache
+C:\Users\vicen\source\repos\Bank07\bin\Debug\Bank07.exe.config
+C:\Users\vicen\source\repos\Bank07\bin\Debug\Bank07.exe
+C:\Users\vicen\source\repos\Bank07\bin\Debug\Bank07.pdb
+C:\Users\vicen\source\repos\Bank07\obj\Debug\Bank07.exe
+C:\Users\vicen\source\repos\Bank07\obj\Debug\Bank07.pdb
