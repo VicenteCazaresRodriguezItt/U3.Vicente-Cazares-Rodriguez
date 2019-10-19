@@ -1,0 +1,6 @@
+C:\Users\vicen\source\repos\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\vicen\source\repos\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\vicen\source\repos\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\vicen\source\repos\ToDoList\obj\Debug\ToDoList.csprojAssemblyReference.cache
+C:\Users\vicen\source\repos\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\vicen\source\repos\ToDoList\obj\Debug\ToDoList.pdb
