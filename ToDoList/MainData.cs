@@ -114,6 +114,7 @@ namespace ToDoList
                     if (opc == d.date)
                     {
                     Console.WriteLine("");
+                       //estoy agregando este comentario desde gitgub, si no arranca borre esto jajajaja, use el "ToString("MM/dd/yyyy")" para que se emprimiera solo la fecha, si no hacia esto tambien se emprimia la hora que eran la 12:00:00 
                         Console.WriteLine("Los datos de la tarea " + d.name + " es:\n" + d.description + "\n" + "se entrega a las " + d.time + " del dia " + d.date.ToString("MM/dd/yyyy"));
                         Console.WriteLine("========================================");
                     Console.WriteLine("");
