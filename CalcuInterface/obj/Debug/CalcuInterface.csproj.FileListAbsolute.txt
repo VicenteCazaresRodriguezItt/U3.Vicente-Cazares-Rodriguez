@@ -1,0 +1,6 @@
+C:\Users\vicen\source\repos\CalcuInterface\bin\Debug\CalcuInterface.exe.config
+C:\Users\vicen\source\repos\CalcuInterface\bin\Debug\CalcuInterface.exe
+C:\Users\vicen\source\repos\CalcuInterface\bin\Debug\CalcuInterface.pdb
+C:\Users\vicen\source\repos\CalcuInterface\obj\Debug\CalcuInterface.csprojAssemblyReference.cache
+C:\Users\vicen\source\repos\CalcuInterface\obj\Debug\CalcuInterface.exe
+C:\Users\vicen\source\repos\CalcuInterface\obj\Debug\CalcuInterface.pdb
